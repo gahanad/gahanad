@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=45&duration=2800&color=F7A41D&center=true&vCenter=true&width=900&height=80&lines=Hey+👋+I'm+Gahana" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=50,&duration=2800&color=F7A41D&center=true&vCenter=true&width=900&height=80&lines=Hey+👋+I'm+Gahana" />
 </p>
 
-<h3 align="center">
+<h3 align="center", size="30">
 Full Stack Developer • Machine Learning Engineer • Problem Solver
 </h3>
 
@@ -36,8 +36,8 @@ Full Stack Developer • Machine Learning Engineer • Problem Solver
 
 ## 📊 GitHub Stats
 
-![Gahana's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=radical)
+![Gahana's GitHub stats](https://github-readme-stats.vercel.app/api?username=gahanad&show_icons=true&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=gahanad&theme=radical)
 
 ## 🧠 Problem Solving
 
