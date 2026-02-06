@@ -1,8 +1,10 @@
-# Hey 👋 I'm Gahana
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=45&duration=2800&color=F7A41D&center=true&vCenter=true&width=900&height=80&lines=Hey+👋+I'm+Gahana" />
+</p>
 
-🎓 Computer Science Student  
-💻 Full Stack + ML Developer  
-🚀 Building real-world intelligent systems  
+<h3 align="center">
+Full Stack Developer • Machine Learning Engineer • Problem Solver
+</h3>
 
 ---
 
