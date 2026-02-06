@@ -36,7 +36,7 @@ Full Stack Developer • Machine Learning Engineer • Problem Solver
 
 ## 📊 GitHub Stats
 
-![Gahana's GitHub stats](https://github-readme-stats.vercel.app/api?username=gahanad&show_icons=true&theme=radical)
+![Gahana's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=gahanad&theme=radical)
 
 ## 🧠 Problem Solving
