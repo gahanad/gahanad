@@ -8,30 +8,40 @@ Full Stack Developer • Machine Learning Engineer • Problem Solver
 
 ---
 
-## 🧠 Tech Stack
+<h1 align="center">🧠 Tech Stack</h1>
 
-**Languages**
-- C++
-- Python
-- JavaScript
-- SQL
+<h2>💻 Languages</h2>
 
-**Frontend**
-- React
-- Next.js
+<h3>
+C++ • Python • JavaScript • SQL
+</h3>
 
-**Backend**
-- FastAPI
-- Node.js
+<h2>🎨 Frontend</h2>
 
-**ML**
-- TensorFlow
+<h3>
+React • Next.js
+</h3>
 
-**Databases**
-- PostgreSQL
-- MongoDB
+<h2>⚙️ Backend</h2>
+
+<h3>
+FastAPI • Node.js
+</h3>
+
+<h2>🤖 Machine Learning</h2>
+
+<h3>
+TensorFlow
+</h3>
+
+<h2>🗄️ Databases</h2>
+
+<h3>
+PostgreSQL • MongoDB
+</h3>
 
 ---
+
 
 
 ## 📊 GitHub Stats
@@ -39,15 +49,11 @@ Full Stack Developer • Machine Learning Engineer • Problem Solver
 ![Gahana's GitHub stats](https://github-readme-stats.vercel.app/api?username=gahanad&show_icons=true&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com?user=gahanad&theme=radical)
 
-## 🧠 Problem Solving
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/gahanad?theme=dark&font=Nunito&ext=heatmap)
-
 ---
 
 ## 🔥 Currently Learning
 - Backend
-- Advanced DSA  
+- DSA  
 
 ---
 
