@@ -42,15 +42,6 @@ PostgreSQL • MongoDB
 
 ---
 
-
-
-## 📊 GitHub Stats
-
-![Gahana's GitHub stats](https://github-readme-stats.vercel.app/api?username=gahanad&show_icons=true&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com?user=gahanad&theme=radical)
-
----
-
 ## 🔥 Currently Learning
 - Backend
 - DSA  
