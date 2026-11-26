@@ -25,19 +25,23 @@ React • Next.js
 <h2>⚙️ Backend</h2>
 
 <h3>
-FastAPI • Node.js
+FastAPI
+Node.js 
+Spring Boot
 </h3>
 
 <h2>🤖 Machine Learning</h2>
 
 <h3>
 TensorFlow
+Computer Vision
 </h3>
 
 <h2>🗄️ Databases</h2>
 
 <h3>
-PostgreSQL • MongoDB
+PostgreSQL
+MongoDB
 </h3>
 
 ---
